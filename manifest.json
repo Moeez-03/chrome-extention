@@ -1,0 +1,21 @@
+{
+    "name": "Identify",
+    "version": "0.01",
+    "description": "user Identify",
+    "permissions": [
+        "identity",
+        "identity.email"
+    ],
+    "action": {
+        "default_title": "User Login Authority HTML",
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 3,
+    "icons": {
+        "16": "logo.png",
+        "32": "logo.png",
+        "48": "logo.png",
+        "64": "logo.png",
+        "128": "logo.png"
+    }
+}
